@@ -31,7 +31,7 @@ public class ProyectoPrueba extends Application {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        launch(args);
+        System.out.println("Prueba de cambios");
     }
     
 }
